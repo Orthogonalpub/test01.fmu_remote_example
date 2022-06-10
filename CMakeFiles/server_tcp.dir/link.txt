@@ -1,0 +1,1 @@
+/usr/bin/c++    -static-libgcc -static-libstdc++    -rdynamic CMakeFiles/server_tcp.dir/root/share/FMPy-master/fmpy/c-code/FMI.c.o CMakeFiles/server_tcp.dir/root/share/FMPy-master/fmpy/c-code/FMI2.c.o CMakeFiles/server_tcp.dir/server_tcp.cpp.o  -o server_tcp  /usr/local/lib/librpc.a -ldl -lpthread 

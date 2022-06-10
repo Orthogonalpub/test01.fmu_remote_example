@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,client_tcp.so -o client_tcp.so CMakeFiles/client_tcp.dir/client_tcp.cpp.o  /usr/local/lib/librpc.a -pthread 

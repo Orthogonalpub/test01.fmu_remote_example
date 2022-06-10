@@ -1,0 +1,5 @@
+/root/share/FMPy-master/remoting/CMakeFiles/rebuild_cache.dir
+/root/share/FMPy-master/remoting/CMakeFiles/edit_cache.dir
+/root/share/FMPy-master/remoting/CMakeFiles/client_test.dir
+/root/share/FMPy-master/remoting/CMakeFiles/server_tcp.dir
+/root/share/FMPy-master/remoting/CMakeFiles/client_tcp.dir

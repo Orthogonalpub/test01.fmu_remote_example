@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../fmpy/c-code/fmi2FunctionTypes.h
+fmi2TypesPlatform.h
+../fmpy/c-code/fmi2TypesPlatform.h
+stddef.h
+-
+
+../fmpy/c-code/fmi2Functions.h
+fmi2Functions.h
+../fmpy/c-code/fmi2Functions.h
+fmi2TypesPlatform.h
+../fmpy/c-code/fmi2TypesPlatform.h
+fmi2FunctionTypes.h
+../fmpy/c-code/fmi2FunctionTypes.h
+stdlib.h
+-
+
+../fmpy/c-code/fmi2TypesPlatform.h
+
+/root/share/FMPy-master/remoting/client_test.cpp
+Windows.h
+-
+dlfcn.h
+-
+stdarg.h
+-
+iostream
+-
+fmi2Functions.h
+/root/share/FMPy-master/remoting/fmi2Functions.h
+
